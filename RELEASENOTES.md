@@ -19,7 +19,10 @@
 #
 -->
 # Release Notes
-                                              
+
+### 1.7.2 (Aug 21, 2023)
+* https://github.com/apache/cordova-plugin-file-transfer/issues/306
+                     
 ### 1.7.1 (Jan 24, 2018)
 * [CB-13749](https://issues.apache.org/jira/browse/CB-13749) Add build-tools-26.0.2 to travis
 
